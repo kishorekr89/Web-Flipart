@@ -1,4 +1,6 @@
-from __future__ import unicode_literals
+"""
+Definition of models.
+"""
 
 from django.db import models
 
